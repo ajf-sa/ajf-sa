@@ -20,6 +20,9 @@ Here are some ideas to get you started:
   </a> <a href="https://snapchat.com/add/ajf.sa">
     <img src="https://img.icons8.com/color/452/snapchat-circled-logo--v5.png" width="26px"/>
   </a>
+  <a href="https://www.youtube.com/@ajf">
+    <img src="https://img.icons8.com/color/512/youtube-play.png" width="26px"/>
+  </a>
 
 ### Status Page 👻
 
